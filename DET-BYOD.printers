@@ -1,0 +1,20 @@
+#
+#
+#
+# This is the list of default printers for adding in the DET BYOD program
+#
+#  
+#   Default Printer Server (either FQDN or just server.)
+
+e4182s01sv021
+
+# Printers
+#
+#    
+#   Server   Printer Name (either FQDN or just server.)
+
+e4182s01sv021    715-SS_KonicaC659_x64
+e4182s01sv021    712-213_KonicaC659_x64
+
+e4182s01sv021.orange.schools.internal    712-216-Konica4000i_x64
+

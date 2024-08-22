@@ -1,0 +1,19 @@
+#
+#
+#
+# This is the list of drives for mapping in the BYOD program
+#
+#
+# Warning
+#
+#   H: drive is My Documents ===>   Gets mapped out of AD
+#
+#  --format
+#  
+#   Drive   Share Name (either FQDN or just \\server\share)
+#
+
+j:  \\e4182s01sv021.orange.schools.internal\Staff_Overflow\Users$\%username%
+s:  \\e4182s01sv001.orange.schools.internal\Shared
+v:  \\E4182S01SV021.orange.schools.internal\STUDENT_DATA
+
